@@ -21,14 +21,14 @@ I'm a Front-End Developer from Saint-Petersburg. I spend a lot of time studying 
 
 ***
 ## Code example
-
+```
 class Person {
   constructor(
     public name: string;
     public age: number;
   ) {}
 }
-
+```
 ***
 ## Education
 Bachelor and Master of St. Petersburg State Electrotechnical University "LETI"
